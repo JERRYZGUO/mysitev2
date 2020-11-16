@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"7l0S":function(e,t,n){"use strict";n.r(t);var s=n("KHd+"),a=Object(s.a)({},(function(){var e=this.$createElement,t=this._self._c||e;return t("Layout",[t("h1",{staticClass:"p-3 p-lg-5 d-flex align-items-center"},[this._v("Nothing here to see!")])])}),[],!1,null,"f8ed125a",null);t.default=a.exports}}]);
